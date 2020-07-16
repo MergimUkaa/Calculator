@@ -25,6 +25,16 @@ class Calculator
         return $this;
     }
 
+    public function multiply(int $value) {
+        $this->result *= $value;
+        return $this;
+    } 
+
+    public function square() {
+        $this->result *= $this->result;
+        return $this;
+    }
+
     public function clear()
     {
       $this->result = 0;
