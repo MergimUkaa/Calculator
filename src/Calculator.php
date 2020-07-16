@@ -11,6 +11,11 @@ class Calculator
         $this->result = 0;
     }
 
+    public function initialValue(int $value = 0) {
+        $this->result = $value;
+        return $this;
+    }
+
     public function add(int $value)
     {
         $this->result += $value;
