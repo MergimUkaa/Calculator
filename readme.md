@@ -19,8 +19,10 @@ $ composer require mergimu/calculator
 ```bash
 use MergimU\Calculator\Facades\Calculator;
 Calculator::initialValue(number)->add(number)->getResult()
+```
 
-Available methods: 
+## Available Methods
+```bash
 intitalValue(number -> default = 0)
 add(number)
 subtract(number)
@@ -29,7 +31,6 @@ square()
 clear()
 getResult()
 ```
-
 ## Change log
 
 Please see the [changelog](changelog.md) for more information on what has changed recently.
