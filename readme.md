@@ -16,6 +16,10 @@ $ composer require mergimu/calculator
 ```
 
 ## Usage
+```bash
+use MergimU\Calculator\Facades\Calculator;
+Calculator::add(number)->subtract(number)->square()->multiply(number)->getResult()
+```
 
 ## Change log
 
