@@ -18,7 +18,15 @@ $ composer require mergimu/calculator
 ## Usage
 ```bash
 use MergimU\Calculator\Facades\Calculator;
-Calculator::add(number)->subtract(number)->square()->multiply(number)->getResult()
+Calculator::initialValue(number)->add(number)->getResult()
+
+Available methods: 
+intitalValue(number -> default = 0)
+add(number)
+subtract(number)
+multiply(number)
+square()
+getResult()
 ```
 
 ## Change log
