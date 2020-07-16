@@ -26,6 +26,7 @@ add(number)
 subtract(number)
 multiply(number)
 square()
+clear()
 getResult()
 ```
 
