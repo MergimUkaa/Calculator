@@ -5,11 +5,10 @@
     "authors": [
         {
             "name": "Mergim Uka",
-            "email": "mergimuka1@gmail.com",
-            "homepage": "author homepage"
+            "email": "mergimuka1@gmail.com"
         }
     ],
-    "homepage": "https://github.com/mergimu/calculator",
+    "homepage": "https://github.com/MergimUkaa/calculator",
     "keywords": ["Laravel", "Calculator"],
     "require": {
         "illuminate/support": "~5|~6|~7"
