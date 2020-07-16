@@ -53,5 +53,5 @@ MIT. Please see the [license file](license.md) for more information.
 [link-downloads]: https://packagist.org/packages/mergimu/calculator
 [link-travis]: https://travis-ci.org/mergimu/calculator
 [link-styleci]: https://styleci.io/repos/12345678
-[link-author]: https://github.com/mergimu
+[link-author]: https://github.com/MergimUkaa
 [link-contributors]: ../../contributors
